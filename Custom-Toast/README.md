@@ -1,2 +1,3 @@
 # Custom-Toast
-All possible way to create custom toast.
+Two possible way to create custom toast.
+
